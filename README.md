@@ -291,4 +291,4 @@ Add the installation paths for Minikube, Helm, and kubectl to your system’s en
      ```
      http://localhost:8080
      ```
-![screenshot](Nginx.png)
+![screenshot](https://github.com/sdeepthi-12/Assignment---Deepthi-S/blob/main/Screenshots/Nginx%20.png)
