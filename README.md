@@ -287,10 +287,8 @@ Add the installation paths for Minikube, Helm, and kubectl to your system’s en
      kubectl port-forward svc/nginx-service 8080:80 -n nginx-namespace
      ```
 
-![Uploading image.png…]()
-
    - Access at:
      ```
      http://localhost:8080
      ```
-
+![screenshot](Nginx.png)
