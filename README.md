@@ -1,4 +1,4 @@
-# SimpliSmart Assignment
+# Assignment
 
 ## Prerequisites
 
